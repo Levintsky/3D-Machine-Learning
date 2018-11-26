@@ -1,4 +1,13 @@
 # Datasets
+In recent years, tremendous amount of progress is being made in the field of 3D Machine Learning, which is an interdisciplinary field that fuses computer vision, computer graphics and machine learning. This repo is derived from my study notes and will be used as a place for triaging new research papers. 
+
+I'll use the following icons to differentiate 3D representations:
+* :camera: Multi-view Images
+* :space_invader: Volumetric
+* :game_die: Point Cloud
+* :gem: Polygonal Mesh
+* :pill: Primitive-based
+
 To see a survey of RGBD datasets, check out Michael Firman's [collection](http://www0.cs.ucl.ac.uk/staff/M.Firman//RGBDdatasets/) as well as the associated paper, [RGBD Datasets: Past, Present and Future](https://arxiv.org/pdf/1604.00999.pdf). Point Cloud Library also has a good dataset [catalogue](http://pointclouds.org/media/). 
 
 <a name="3d_models" />
